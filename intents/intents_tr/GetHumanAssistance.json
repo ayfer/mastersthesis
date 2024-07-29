@@ -1,0 +1,11 @@
+{
+    "intentName": "GetHumanAssistance",
+    "description": "Yapay zeka ve/veya insan müdahalesi gerektiren ciddi sorunlar hakkındaki endişelerinizi dile getirin veya doğrudan insan yardımını talep edin.",
+    "samples": [
+        "Biriyle konuşmak istiyorum.",
+        "Beni bir insan uzmanına yönlendir.",
+        "Gerçek bir kişiden yardım alabilir miyim?",
+        "Gerçek bir insanın yanında kendimi daha rahat hissederim.",
+        "Hiçbir yapay zekaya güvenmiyorum."
+    ]
+}

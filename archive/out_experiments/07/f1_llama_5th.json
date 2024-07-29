@@ -1,0 +1,10 @@
+{
+    "noprefix_relevancy_caseupper_ger": 0.764,
+    "negation_specific_sp": 0.778,
+    "negation_orderinstruct_caseupper_sp": 0.689,
+    "politeness_caseupper": 0.989,
+    "initialprompt": 0.952,
+    "initialprompt_ger": 0.792,
+    "initialprompt_turk": 0.749,
+    "initialprompt_sp": 0.88
+}

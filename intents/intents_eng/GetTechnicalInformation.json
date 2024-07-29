@@ -1,0 +1,13 @@
+{
+    "intentName": "GetTechnicalInformation",
+    "description": "Get quantitative values, such as horsepower, torque, fuel efficiency/consumption, fuel/electric range, emissions, speed, acceleration, cargo capacity, body size, weight, and other similar car specifications.",
+    "samples": [
+        "What range does the MINI Cooper S 3-door have?",
+        "Can you tell me the maximum amount I can fit in the trunk of a MINI Cooper Countryman?",
+        "How many horsepower does the MINI John Cooper Works Clubman have?",
+        "Tell me what the towing capacity of the MINI Cooper D Countryman is.",
+        "Acceleration values ​​MINI Cooper SE",
+        "What is the maximum speed of the MINI Cooper S Clubman?",
+        "Can I find out the emissions values ​​of the MINI Cooper Convertible?"
+    ]
+}

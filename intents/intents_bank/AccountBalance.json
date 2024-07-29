@@ -1,0 +1,10 @@
+{
+    "intentName": "AccountBalance",
+    "description": "Check the balance of a specific account",
+    "samples": [
+        "How much do i have in my checking?",
+        "What is my savings account balance?",
+        "is there any money left?"
+
+    ]
+}

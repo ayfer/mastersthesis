@@ -1,0 +1,13 @@
+{
+    "intentName": "GetTechnicalInformation",
+    "description": "Beygir gücü, tork, yakıt verimliliği/tüketimi, yakıt/elektrik menzili, emisyonlar, hız, hızlanma, kargo kapasitesi, gövde boyutu, ağırlık ve diğer benzer araç özellikleri gibi niceliksel değerleri alın.",
+    "samples": [
+        "MINI Cooper S 3 kapılı modelin menzili nedir?",
+        "Bana bir MINI Cooper Countryman'in bagajına sığdırabileceğim maksimum miktarı söyleyebilir misiniz?",
+        "MINI John Cooper Works Clubman'ın kaç beygir gücü var?",
+        "Bana MINI Cooper D Countryman'in çekme kapasitesinin ne olduğunu söyle.",
+        "Hızlanma değerleri MINI Cooper SE",
+        "MINI Cooper S Clubman'in maksimum hızı nedir?",
+        "MINI Cooper Cabrio'nun emisyon değerlerini öğrenebilir miyim?"
+    ]
+}

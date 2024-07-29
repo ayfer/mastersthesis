@@ -1,0 +1,13 @@
+{
+    "intentName": "GetPreConfiguration",
+    "description": "Obtenga una sugerencia para una configuración de automóvil finalizada con o sin información presupuestaria.",
+    "samples": [
+        "Completando mi configuración.",
+        "Termina mi MINI por 33k.",
+        "¿Puedes terminar la configuración?",
+        "Completa la configuración actual. Mi presupuesto es de 40.000 euros.",
+        "Hazme una sugerencia sobre cómo podría completar mi MINI.",
+        "Muéstrame cómo sería el MINI terminado por 38.000 euros.",
+        "¿Puede sugerirme cómo puedo completar mi configuración con 35000?"
+    ]
+}

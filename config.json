@@ -1,0 +1,29 @@
+{
+    "openai_gpt35": {
+        "endpoint": "",
+        "api_key": "",
+        "model_name": "gpt-35-turbo-1106",
+        "name": "GPT-3.5"
+    },
+    "openai_gpt4": {
+        "endpoint": "",
+        "api_key": "",
+        "model_name": "gpt-4-32k",
+        "name": "GPT-4"
+    },
+    "llama370b": {
+        "endpoint": "",
+        "api_key": "",
+        "name": "Llama3 70B"
+    },
+    "mistral7b": {
+        "endpoint": "",
+        "api_key": "",
+        "model_name": "mistral_7b_instruct_v0_2",
+        "name": "Mistral 7B"
+    },
+    "gemini": {
+        "api_key": "",
+        "name": "Gemini 1.5"
+    }
+}

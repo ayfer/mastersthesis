@@ -1,0 +1,6 @@
+{
+    "noprefix_relevancy_caseupper": 0.989,
+    "negation_specific_noverb": 0.94,
+    "negation_orderinstruct_caseupper": 0.581,
+    "politeness_caseupper_orderword": 0.698
+}

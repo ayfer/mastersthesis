@@ -1,0 +1,12 @@
+{
+    "initial_prompt": 0.551,
+    "syntactic_letters": 0.525,
+    "syntactic_punctuation": 0.604,
+    "syntactic_language": 0.569,
+    "semantic_adressing": 0.543,
+    "semantic_question": 0.712,
+    "semantic_command": 0.745,
+    "pragmatic_order": 0.489,
+    "pragmatic_metainstruct": 0.53,
+    "pragmatic_relevancy": 0.566
+}

@@ -1,0 +1,14 @@
+{
+    "noprefix_relevancy": 0.385,
+    "noprefix_caseupper": 0.444,
+    "relevancy_caseupper": 0.544,
+    "address_orderinstruct": 0.695,
+    "negation_specific": 0.766,
+    "noverb_specific": 0.41,
+    "negation_noverb": 0.393,
+    "orderinstruct_zeroshot": 0.644,
+    "politeness_caseupper": 0.479,
+    "politeness_orderword": 0.373,
+    "caseupper_orderword": 0.425,
+    "nobreak_punctuation": 0.387
+}

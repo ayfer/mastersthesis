@@ -1,0 +1,29 @@
+# Prompt Testing with Intent Recognition
+
+## Description
+
+This project aims to evaluate the performance of different language models by testing various prompts in multiple languages. 
+The goal is to understand how these models respond to different prompts and identify the most effective prompt modifications. 
+The evaluation is conducted using the F1 score as the performance metric.
+
+
+## Installation
+
+To set up this project, you need to install the required libraries and configure your API keys in config.json first.
+
+## Usage
+
+Here is an example of how to use the main.py script:
+python3 main.py -d intents/intents_bank -i datasets/in_bank.xlsx -o out/output_gpt35_bank.xlsx -m openai_gpt35 -pp prompts/new_prompts_bank.json
+
+Command-Line Arguments
+-d : Directory containing the intents.
+-i : Path to the input dataset file.
+-o : Path to the output file where results will be saved.
+-m : The model to be used (e.g., openai_gpt35).
+-pp : Path to the JSON file containing the prompts.
+
+### Additional Information
+
+In the tools directory you will find the files used to calculate the F1 score (calculate_f1.py) and other metrics (such as accuracy, mcc, precision, recall...) and the scripts used to process the data (to generate tables or graphs).
+The archive directory contains all previous versions of the scripts (including failed ones) and all output files (including unused ones).

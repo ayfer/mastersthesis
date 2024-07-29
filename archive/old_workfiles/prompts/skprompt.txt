@@ -1,0 +1,11 @@
+Given this list of intents:
+{{$intentsJson}}
+Figure our which is the intent of the input.
+If you cannot find a match use {{$unknownIntentJson}}
+Return only the intent name
+***** Example
+Input: 'Wuseldusel bla bala blaala qwertzu?'
+Response {{$unknownIntentName}}
+**** End Example
+Input '{{$input}}'
+Response 

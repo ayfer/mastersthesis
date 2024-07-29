@@ -1,0 +1,3 @@
+{
+"languge_sp": "Instruction: La tarea consiste en averiguar cuál es la intención de la entrada. Si no se encuentra ninguna coincidencia, utilice 'Unknown' como el nombre de la intención.\nContexto: Esta lista de intenciones con ejemplos se da: [{intentsJson}]. Es una de estas cinco intenciones o 'Unknown'.\nInput: La entrada es una cadena {input}.\nOutput: Solo el nombre de la intención o 'Unknown'.\nEjemplo: Si la entrada es 'I don´t trust AI.', la salida debería ser 'GetHumanAssistance'. Otro ejemplo: Si la entrada es 'wie wird das Wetter morgen?', la salida debería ser 'Unknown'."
+}

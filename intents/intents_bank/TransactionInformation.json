@@ -1,0 +1,9 @@
+{
+    "intentName": "TransactionInformation",
+    "description": "Get Information about account transactions",
+    "samples": [
+        "What was the last thing i purchased?",
+        "Open yesterday's last payment",
+        "my transaction history"
+    ]
+}

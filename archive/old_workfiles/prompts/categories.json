@@ -1,0 +1,12 @@
+{
+    "initial_prompt": "just copy and paste the text and do not change anything",
+    "syntactic_letters": "change all the words in the text to either lower case, upper case or alternating case", 
+    "syntactic_punctuation": "insert random punctuation and special characters into the text", 
+    "syntactic_language": "translate it either to german, turkish or spanish",
+    "semantic_adressing": "rewrite it in a personal manner adressing the LLM directly", 
+    "semantic_question": "rewrite the whole text as a question", 
+    "semantic_command": "rewrite it in a harsh manner adressing the LLM directly", 
+    "pragmatic_order": "rewrite it by changing the order of the instructions", 
+    "pragmatic_metainstruct": "add an instruction, which allows the LLM to think in steps", 
+    "pragmatic_relevancy": "rewrite it by telling the llm a reason why it is so important to carry out the instruction correctly"
+}

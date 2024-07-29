@@ -1,0 +1,11 @@
+{
+    "intentName": "GetHumanAssistance",
+    "description": "Äußern Sie Bedenken hinsichtlich der KI und/oder schwerwiegender Probleme, die ein menschliches Eingreifen erfordern, oder fordern Sie direkt menschliche Hilfe an.",
+    "samples": [
+        "Ich möchte mit einem Menschen sprechen.",
+        "Leite mich an einen menschlichen Experten weiter.",
+        "Kann ich Hilfe von einem richtigen Menschen bekommen?",
+        "Ich würde mich mit einer echten Person wohler fühlen.",
+        "Ich vertraue keiner KI."
+    ]
+}

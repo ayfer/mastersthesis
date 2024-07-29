@@ -1,0 +1,13 @@
+{
+    "intentName": "GetTechnicalInformation",
+    "description": "Erhalten Sie quantitative Werte wie PS, Drehmoment, Kraftstoffeffizienz/-verbrauch, Kraftstoff-/elektrische Reichweite, Emissionen, Geschwindigkeit, Beschleunigung, Ladekapazität, Karosseriegröße, Gewicht und andere ähnliche Fahrzeugspezifikationen.",
+    "samples": [
+        "Was hat der MINI Cooper S 3-Türer für eine Reichweite?",
+        "Kannst du mir sagen, was ich maximal in den Kofferraum eines MINI Cooper Countryman reinkriege?",
+        "Wie viele PS hat der MINI John Cooper Works Clubman?",
+        "Sag mir, was die Zugkapazität vom MINI Cooper D Countryman ist.",
+        "Beschleunigungswerte MINI Cooper SE",
+        "Wie schnell rennt der MINI Cooper S Clubman maximal?",
+        "Kann ich die Emissionswerte vom MINI Cooper Cabrio erfahren?"
+    ]
+}

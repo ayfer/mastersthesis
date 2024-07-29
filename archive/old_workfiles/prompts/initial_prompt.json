@@ -1,0 +1,32 @@
+{
+    "Instruction": "The task is to find out what the intent of the input is. If no match is found, use 'Unknown' as the intent name",
+    "Context": "This list of intents with examples is given:[{intentsJson}]. It is either one of these five intents or 'Unknown'",
+    "Input": "The input is a string {input}.",
+    "Output": "Only the intent name or 'Unknown'.",
+    "Examples": [
+        {
+            "Input": "I want to talk to a person",
+            "Output": "GetHumanAssistance"
+        },
+        {
+            "Input": "Hast du Optionsempfehlungen für mich?",
+            "Output": "GetOptionRecommendation"
+        }
+        {
+            "Input": "Wie wird das Wetter morgen?",
+            "Output": "Unknown"
+        }
+        {
+            "Input":  "Is a vehicle similar to my configuration in stock?",
+            "Output": "GetStockAvailability"
+        }
+        {
+            "Input":"Stelle meinen MINI für 33k fertig.",
+            "Output":"GetPreConfiguration"
+        }
+        {
+            "Input": "Beschleunigungswerte MINI Cooper SE",
+            "Output": "GetTechnicalInformation"
+        }
+    ]
+}

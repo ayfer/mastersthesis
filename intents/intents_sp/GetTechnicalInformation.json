@@ -1,0 +1,13 @@
+{
+    "intentName": "GetTechnicalInformation",
+    "description": "Obtenga valores cuantitativos, como caballos de fuerza, torque, eficiencia/consumo de combustible, rango de combustible/eléctrico, emisiones, velocidad, aceleración, capacidad de carga, tamaño de la carrocería, peso y otras especificaciones similares del automóvil.",
+    "samples": [
+        "¿Qué autonomía tiene el MINI Cooper S de 3 puertas?",
+        "¿Puedes decirme la cantidad máxima que puedo meter en el maletero de un MINI Cooper Countryman?",
+        "¿Cuántos caballos tiene el MINI John Cooper Works Clubman?",
+        "Dime cuál es la capacidad de remolque del MINI Cooper D Countryman.",
+        "Valores de aceleración MINI Cooper SE",
+        "¿Cuál es la velocidad máxima del MINI Cooper S Clubman?",
+        "¿Puedo conocer los valores de emisiones del MINI Cooper Cabrio?"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "intentName": "PinChange",
+    "description": "Get help to change the pin number",
+    "samples": [
+      "I want to change my pin",
+      "switch my amex pin to 1234",
+      "Can you reset my pin number?"
+      ]
+}

@@ -1,0 +1,23 @@
+{
+    "initial_prompt": 0.91,
+    "noprefix_relevancy_eng": 1,
+    "noprefix_relevancy_ger": 0.98,
+    "noprefix_relevancy_sp": 0.993,
+    "noprefix_relevancy_tr": 0.947,
+    "noprefix_relevancy_caseupper_eng": 1,
+    "noprefix_relevancy_caseupper_ger": 0.997,
+    "noprefix_relevancy_caseupper_sp": 0.967,
+    "noprefix_relevancy_caseupper_tr": 1,
+    "negation_specific_eng": 0.893,
+    "negation_specific_ger": 0.853,
+    "negation_specific_sp": 0.847,
+    "negation_specific_tr": 0.893,
+    "negation_orderinstruct_caseupper_eng": 0.96,
+    "negation_orderinstruct_caseupper_ger": 0.977,
+    "negation_orderinstruct_caseupper_sp": 0.973,
+    "negation_orderinstruct_caseupper_tr": 0.977,
+    "politeness_caseupper_eng": 0.99,
+    "politeness_caseupper_ger": 0.987,
+    "politeness_caseupper_sp": 1,
+    "politeness_caseupper_tr": 0.997
+}

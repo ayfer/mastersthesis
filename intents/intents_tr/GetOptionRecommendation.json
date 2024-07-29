@@ -1,0 +1,11 @@
+{
+    "intentName": "GetOptionRecommendation",
+    "description": "Belirli bir özelliği veya özellik kategorisini adlandırmadan, genel yapılandırmayı tamamlamaya değil, nasıl geliştirebileceğinize ilişkin tavsiye alın.",
+    "samples": [
+        "Bana herhangi bir seçenek önerin var mı?",
+        "Başka hangi olanakları seçmeliyim?",
+        "Yapılandırmamda yararlı eklemeler var mı?",
+        "Yapılandırmamı nasıl geliştirebilirim?",
+        "Başka bir şey seçmeli miyim?"
+    ]
+}

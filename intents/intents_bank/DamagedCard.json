@@ -1,0 +1,9 @@
+{
+    "intentName": "DamgedCard",
+    "description": "Get advice on how to report a damaged card and/or inform about the damage",
+    "samples": [
+        "my card got snapped in half",
+        "an atm ate my card, how do i report it",
+        "my card got damaged, what do i do"
+    ]
+}

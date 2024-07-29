@@ -1,0 +1,11 @@
+{
+    "intentName": "GetOptionRecommendation",
+    "description": "Get advice on how to improve, not up to completion, the overall configuration, without naming a specific feature or a category of features.",
+    "samples": [
+        "Do you have any option recommendations for me?",
+        "What other amenities should I choose?",
+        "Are there any useful additions to my configuration?",
+        "How could I improve my configuration?",
+        "Should I choose anything else?"
+    ]
+}

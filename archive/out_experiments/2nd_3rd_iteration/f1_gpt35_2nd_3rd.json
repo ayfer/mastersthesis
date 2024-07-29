@@ -1,0 +1,22 @@
+{
+    "noprefix_relevancy_caseupper": 0.989,
+    "negation_specific_noverb": 0.937,
+    "negation_orderinstruct_caseupper": 0.578,
+    "politeness_caseupper_orderword": 0.692,
+    "negation_caseupper": 0.895,
+    "negation_orderinstruct": 0.712,
+    "orderinstruct_caseupper": 0.701,
+    "question_zeroshot": 0.621,
+    "negation_specific": 0.909,
+    "noverb_specific": 0.786,
+    "negation_noverb": 0.915,
+    "orderinstruct_zeroshot": 0.67,
+    "noprefix_relevancy": 0.989,
+    "noprefix_caseupper": 0.98,
+    "relevancy_caseupper": 0.949,
+    "address_orderinstruct": 0.527,
+    "politeness_caseupper": 0.912,
+    "politeness_orderword": 0.641,
+    "caseupper_orderword": 0.65,
+    "nobreak_punctuation": 0.895
+}

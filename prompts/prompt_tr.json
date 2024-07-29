@@ -1,0 +1,3 @@
+{
+"language_turk": "Instruction: Görev, girdinin amacının ne olduğunu bulmaktır. Eşleşme bulunamazsa, niyet adı olarak 'Unknown' kullanın.\nBağlam: Bu niyet listesi örneklerle birlikte verilmiştir: [{intentsJson}]. Bu beş niyetten biri ya da 'Unknown' olabilir.\nGirdi: Girdi bir dizedir {input}.\nÇıktı: Sadece niyet adı veya 'Unknown'.\nÖrnek: Girdi 'I don´t trust AI.' ise, çıktı 'GetHumanAssistance' olmalıdır. Başka bir örnek: Girdi 'wie wird das Wetter morgen?' ise, çıktı 'Unknown' olmalıdır."
+}

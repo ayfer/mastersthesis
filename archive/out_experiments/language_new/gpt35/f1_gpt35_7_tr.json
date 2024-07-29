@@ -1,0 +1,7 @@
+{
+    "noprefix_relevancy_tr": 0.707,
+    "noprefix_relevancy_caseupper_tr": 0.766,
+    "negation_specific_tr": 0.741,
+    "negation_orderinstruct_caseupper_tr": 0.311,
+    "politeness_caseupper_tr": 0.772
+}

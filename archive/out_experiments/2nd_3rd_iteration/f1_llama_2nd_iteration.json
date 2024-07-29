@@ -1,0 +1,16 @@
+{
+    "politeness_x_caseupper": 0.983,
+    "politeness_x_orderword": 0.954,
+    "caseupper_x_orderword": 0.906,
+
+    "pragmatic_politeness": 0.974,
+    "syntactic_caseupper": 0.954,
+    "syntactic_orderword": 0.943,
+   
+    "initial_prompt": 0.939,
+   
+    "syntactic_punctuation": 0.786,
+    "syntactic_nobreak": 0.783,
+
+    "nobreak_x_punctuation": 0.752
+}

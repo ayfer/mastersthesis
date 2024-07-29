@@ -1,0 +1,11 @@
+{
+    "intentName": "GetHumanAssistance",
+    "description": "Express concerns about AI and/or severe issues that require human intervention or request human assistance directly.",
+    "samples": [
+        "Ich möchte mit einem Menschen sprechen.",
+        "Leite mich an einen menschlichen Experten weiter.",
+        "Kann ich Hilfe von einem richtigen Menschen bekommen?",
+        "Ich würde mich mit einer echten Person wohler fühlen.",
+        "Ich vertraue keiner KI."
+    ]
+}

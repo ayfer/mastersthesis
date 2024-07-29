@@ -1,0 +1,17 @@
+{
+    "noprefix_x_relevancy": 0.989,
+    "noprefix_x_caseupper": 0.98,
+    "relevancy_x_caseupper": 0.949,
+
+
+    "semantic_noprefix": 0.981,
+    "syntactic_caseupper": 0.944,
+    "pragmatic_relevancy": 0.941,
+   
+    "initial_prompt": 0.836,
+   
+    "pragmatic_address": 0.708,
+    "syntactic_orderinstruct": 0.617,
+
+    "address_x_orderinstruct": 0.533
+}

@@ -1,0 +1,22 @@
+{
+    "noprefix_relevancy_eng": 0,
+    "noprefix_relevancy_ger": 0,
+    "noprefix_relevancy_sp": 0.746,
+    "noprefix_relevancy_tr": 0,
+    "noprefix_relevancy_caseupper_eng": 0,
+    "noprefix_relevancy_caseupper_ger": 0,
+    "noprefix_relevancy_caseupper_sp": 0.726,
+    "noprefix_relevancy_caseupper_tr": 0,
+    "negation_specific_eng": 0,
+    "negation_specific_ger": 0,
+    "negation_specific_sp": 0.769,
+    "negation_specific_tr": 0,
+    "negation_orderinstruct_caseupper_eng": 0,
+    "negation_orderinstruct_caseupper_ger": 0,
+    "negation_orderinstruct_caseupper_sp": 0.718,
+    "negation_orderinstruct_caseupper_tr": 0,
+    "politeness_caseupper_eng": 0,
+    "politeness_caseupper_ger": 0,
+    "politeness_caseupper_sp": 0.755,
+    "politeness_caseupper_tr": 0
+}

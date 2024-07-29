@@ -1,0 +1,9 @@
+{
+    "intentName": "CreditLimitChange",
+    "description": "Change the credit limit of a credit card",
+    "samples": [
+        "I want to increase my credit limit",
+        "Is it possible to get a new credit limit of $10,000?",
+        "I want to change my credit limit for my western union credit card to 5000 dollars"
+    ]
+}

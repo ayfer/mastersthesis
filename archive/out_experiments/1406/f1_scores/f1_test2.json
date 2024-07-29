@@ -1,0 +1,11 @@
+{
+    "syntactic_letters": 0.715,
+    "syntactic_punctuation": 0.722,
+    "syntactic_language": 0.603,
+    "semantic_adressing": 0.702,
+    "semantic_question": 0.004,
+    "semantic_command": 0.734,
+    "pragmatic_order": 0.607,
+    "pragmatic_metainstruct": 0.69,
+    "pragmatic_relevancy": 0.689
+}

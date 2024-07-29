@@ -1,0 +1,11 @@
+{
+    "intentName": "GetStockAvailability",
+    "description": "Bir araba satın alın, stok durumunu öğrenin veya teslimat sürelerini kısaltın",
+    "samples": [
+      "Stokta benzer bir MINI var mı?",
+      "Benzer bir arabayı hemen satın alabilir miyim?",
+      "Yapılandırmama hemen uygun alternatifler var mı?",
+      "Bunun gibi bir MINI'nin teslimat süresinden kaçınmak mümkün mü?",
+      "Bu arabayı hemen istiyorum!"
+        ]
+}

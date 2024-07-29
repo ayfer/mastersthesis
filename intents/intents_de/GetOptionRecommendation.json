@@ -1,0 +1,11 @@
+{
+    "intentName": "GetOptionRecommendation",
+    "description": "Lassen Sie sich beraten, wie Sie die Gesamtkonfiguration verbessern, nicht aber bis zur Vollendung, ohne ein bestimmtes Feature oder eine Feature-Kategorie zu benennen.",
+    "samples": [
+        "Hast du Optionsempfehlungen für mich?",
+        "Was sollte ich sonst noch für Ausstattungen wählen?",
+        "Gibt es sinnvolle Ergänzungen zu meiner Konfiguration?",
+        "Wie könnte ich meine Konfiguration verbessern?",
+        "Sollte ich sonst noch etwas wählen?"
+    ]
+}

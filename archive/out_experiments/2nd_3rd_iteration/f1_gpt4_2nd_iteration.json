@@ -1,0 +1,17 @@
+{
+    "negation_x_specific": 0.957,
+    "noverb_x_specific": 0.937,
+    "negatioon_x_noverb": 0.923,
+
+    "syntactic_negation": 0.953,
+    "semantic_specific": 0.938,
+    "syntactic_noverb": 0.936,
+   
+    "initial_prompt": 0.899,
+
+    "syntactic_orderinstruct": 0.854,
+    "pragmatic_zeroshot": 0.834,
+
+
+    "orderinstruct_x_zeroshot": 0.915
+}

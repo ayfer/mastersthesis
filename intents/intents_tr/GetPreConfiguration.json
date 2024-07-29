@@ -1,0 +1,13 @@
+{
+    "intentName": "GetPreConfiguration",
+    "description": "Bütçe bilgileri olsun veya olmasın, kesinleşmiş bir araç konfigürasyonu için öneri alın.",
+    "samples": [
+        "Yapılandırmam tamamlanıyor.",
+        "MINI'mi 33 bine bitir.",
+        "Lütfen yapılandırmayı tamamlayabilir misiniz?",
+        "Mevcut yapılandırmayı tamamlayın. Bütçem 40.000 Euro.",
+        "MINI'mi nasıl tamamlayabileceğim konusunda bir öneride bulunun.",
+        "38.000 Euro karşılığında bitmiş MINI'nin nasıl görüneceğini bana gösterin.",
+        "Lütfen konfigürasyonumu 35000 ile nasıl tamamlayabileceğimi önerebilir misiniz?"
+    ]
+}

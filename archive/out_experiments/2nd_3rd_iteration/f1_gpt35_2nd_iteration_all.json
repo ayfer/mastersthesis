@@ -1,0 +1,14 @@
+{
+    "negation_specific": 0.897,
+    "noverb_specific": 0.775,
+    "negation_noverb": 0.917,
+    "orderinstruct_zeroshot": 0.652,
+    "negation_caseupper": 0.892,
+    "negation_orderinstruct": 0.709,
+    "orderinstruct_caseupper": 0.692,
+    "question_zeroshot": 0.672,
+    "politeness_caseupper": 0.903,
+    "politeness_orderword": 0.647,
+    "caseupper_orderword": 0.647,
+    "nobreak_punctuation": 0.906
+}

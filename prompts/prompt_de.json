@@ -1,0 +1,3 @@
+{
+    "language_ger": "Instruktion: Die Aufgabe besteht darin, herauszufinden, was die Absicht der Eingabe ist. Wenn keine Übereinstimmung gefunden wird, verwenden Sie 'Unknown' als Absichtsnamen.\nKontext: Diese Liste von Absichten mit Beispielen wird gegeben: [{intentsJson}]. Es ist entweder eine dieser fünf Absichten oder 'Unknown'.\nInput: Die Eingabe ist eine Zeichenfolge {input}.\nOutput: Nur der Absichtsname oder 'Unknown'.\nBeispiel: Wenn die Eingabe 'I don´t trust AI.' ist, sollte die Ausgabe 'GetHumanAssistance' sein. Ein weiteres Beispiel: Wenn die Eingabe 'wie wird das Wetter morgen?' ist, sollte die Ausgabe 'Unknown' sein."
+}

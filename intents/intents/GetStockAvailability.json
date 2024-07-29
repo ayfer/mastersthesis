@@ -1,0 +1,11 @@
+{
+    "intentName": "GetStockAvailability",
+    "description": "Buy a car, get stock availability, or reduce delivery times.",
+    "samples": [
+          "Ist ein ähnlicher MINI auf Lager?",
+          "Kann ich ein ähnliches Auto sofort kaufen?",
+          "Gibt es sofort verfügbare Alternativen zu meiner Konfiguration?",
+          "Ist es möglich die Lieferzeit für einen MINI wie diesen zu umgehen?",
+          "Ich will dieses Auto sofort haben!"
+        ]
+}
